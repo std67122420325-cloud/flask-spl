@@ -6,6 +6,7 @@ dist/
 wheels/
 .vanv/
 instance/
+migration/
 *.egg-info
 
 # Virtual environments
